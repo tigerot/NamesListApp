@@ -1,0 +1,17 @@
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\URETIMMUH3\source\repos\NamesListAPI\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
